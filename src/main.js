@@ -1,3 +1,5 @@
+'use strict';
+
 //Header에 페이지 아래로 스크롤시 다크 스타일링 적용
 //스크롤 되는 Y좌표가 headerHeight보다 크다면 다른 스타일링!
 
