@@ -82,7 +82,7 @@ button:focus{
     justify-content: space-between;
     align-items: center;
     z-index: 1;
-    transition: all 300ms ease;    
+    transition: all 300ms ease;  
 }
 
 .header--dark{
